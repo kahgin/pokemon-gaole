@@ -1,0 +1,10 @@
+# Ignore Eclipse project-specific files
+.classpath
+.project
+.settings/
+
+# Ignore binary build files
+bin/
+
+# Ignore Eclipse workspace files
+.metadata/
